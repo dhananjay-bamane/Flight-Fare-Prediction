@@ -51,11 +51,14 @@ python app.py
 
 ## Sample images of the web application
 
-### Predictor Page
+### Prediction Page
 <img src="img/predict page.jpg" alt="My cool logo"/>
 <br>
 
 ### Predictions
+In the Below predictions we have selected the source as Mumbai & the destination as Delhi, the flight would be non-stop & the airline we have selected is IndiGo and the price we got is around Rs 5239 
+<br>
+
 <img src="img/prediction.jpg" alt="My cool logo"/>
 <br>
 
