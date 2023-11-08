@@ -56,7 +56,7 @@ python app.py
 <br>
 
 ### Predictions
-In the Below predictions we have selected the source as Mumbai & the destination as Delhi, the flight would be non-stop & the airline we have selected is IndiGo and the price we got is around Rs 5239 
+In the Below predictions, we have selected the source as Mumbai & the destination as Delhi, the flight would be non-stop & the airline we have selected is IndiGo and the price we got is around Rs 5239 
 <br>
 
 <img src="img/prediction.jpg" alt="My cool logo"/>
