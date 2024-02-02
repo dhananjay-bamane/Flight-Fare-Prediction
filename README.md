@@ -10,7 +10,7 @@ It is a regression problem that is solved using RandomForestRegressor ML Algorit
 | ------------------------ | -------- |
 | Linear Regression        | 72.00%   |
 | XGBoost                  | 82.00%   |
-| ExtraTreeReressor        | 93.70%   |
+| Decision Tree            | 91.70%   |
 | Random Forest            | 93.70%   |
 
 ## Features:
